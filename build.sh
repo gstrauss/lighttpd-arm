@@ -4,7 +4,7 @@ export NDK=/home/nredko/bin/android-ndk-r21d
 export ZLIB=zlib-1.2.11
 export PCRE=pcre-8.44
 export OPENSSL=openssl-1.1.1i
-export LIGHTTPD=lighttpd-1.4.77
+export LIGHTTPD=lighttpd-1.4.79
 
 #############################################################
 # download
